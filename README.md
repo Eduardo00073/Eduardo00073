@@ -41,7 +41,7 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 - 👨‍💻 **Docência em TI & Robótica**: Aulas em colégios, escolas técnicas e institutos de cursos livres
 - 🛡️ **Cybersegurança & Ethical Hacking**: Práticas defensivas & Investigação Digital
 - 🤖 **Robótica Educacional**: Arduino, micro:bit, Tinkercad e Scratch
-- 🚀 **Criador do AVA**: Plataforma própria de Ambiente Virtual de Aprendizagem
+- 🚀 [**Criador do AVA**](https://github.com/Eduardo00073/ava-lms-showcase): Plataforma própria de Ambiente Virtual de Aprendizagem (LMS Comercial)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 - 🎨 [**web-design-ux-ui**](https://github.com/Eduardo00073/web-design-ux-ui) — Princípios de UX/UI, tipografia, cores, acessibilidade e wireframes
 
 #### 🚀 Plataformas & Sistemas Completos
-- 🚀 [**AVA**](https://github.com/Eduardo00073/AVA) — Plataforma própria de Ambiente Virtual de Aprendizagem
+- 🚀 [**AVA — Plataforma EAD**](https://github.com/Eduardo00073/ava-lms-showcase) — Showcase Oficial & Arquitetura do Ambiente Virtual de Aprendizagem (Software Proprietário / Comercial)
 - 🔐 [**access-management-delta**](https://github.com/Eduardo00073/access-management-delta) — Sistema de controle de acesso e gerenciamento de laboratórios (C# + SQL Server + UserInit)
 
 </td>
