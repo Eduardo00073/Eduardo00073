@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=0165F1&center=true&vCenter=true&width=650&lines=Professor+de+Programa%C3%A7%C3%A3o%2C+Inform%C3%A1tica+e+Rob%C3%B3tica;Desenvolvedor+Full+Stack;Cyberseguran%C3%A7a+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG"/>
 
 <p>
-<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/SITE-0165f1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Site-0165f1?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -25,7 +25,8 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 
 **🎓 Formação**
 - Análise e Desenvolvimento de Sistemas — Fatec Jales
-- Pedagogia — Faculdade UniBF
+- Pedagogia (Licenciatura) — Faculdade UniBF
+- +7 Pós-graduações Lato Sensu (ver abaixo)
 
 </td>
 <td valign="top" width="50%">
@@ -40,17 +41,31 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 </tr>
 </table>
 
+<details>
+<summary><b>📚 Pós-graduações Lato Sensu — Faculdade Alcance (FAAL)</b></summary>
+<br>
+
+- Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais
+- Desenvolvimento em Aplicações Web
+- Docência no Ensino Médio-Técnico
+- Inteligência Artificial
+- Banco de Dados
+- Desenvolvimento de Aplicações para Dispositivos Móveis (Apps)
+- Desenvolvimento de Sistemas com Java e PHP
+
+</details>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,git,windows,linux&theme=dark" />
+<a href="https://github.com/Eduardo00073" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,git,windows,linux&theme=dark" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
+<a href="https://github.com/Eduardo00073" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://github.com/Eduardo00073" target="_blank"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+<a href="https://github.com/Eduardo00073" target="_blank"><img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=for-the-badge"/></a>
+<a href="https://github.com/Eduardo00073" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/></a>
 </p>
 
 ### 📌 Projetos em destaque
@@ -65,7 +80,7 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 
 ### 📫 Contato
 
-<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/Site-0165f1?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Site-0165f1?style=flat-square&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <i>Unindo tecnologia e educação desde 2013.</i>
