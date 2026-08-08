@@ -39,7 +39,7 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 
 #### 🏫 Atuação Profissional & Ecossistema
 - 👨‍💻 **Docência em TI & Robótica**: Aulas em colégios, escolas técnicas e institutos de cursos livres
-- 🛡️ **Cybersegurança & Ethical Hacking**: Práticas com Kali Linux & Investigação Digital
+- 🛡️ **Cybersegurança & Ethical Hacking**: Práticas defensivas & Investigação Digital
 - 🤖 **Robótica Educacional**: Arduino, micro:bit, Tinkercad e Scratch
 - 🚀 **Criador do AVA**: Plataforma própria de Ambiente Virtual de Aprendizagem
 
@@ -100,6 +100,54 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 
 ---
 
+### 📂 Repositórios Didáticos & Projetos
+
+Explore os repositórios organizados por áreas de conhecimento e tecnologia:
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+#### 🌐 Desenvolvimento Web & Full Stack
+- 🌐 [**html-css-fundamentos**](https://github.com/Eduardo00073/html-css-fundamentos) — HTML5 semântico, CSS3, Flexbox, Grid e Responsividade
+- ⚡ [**javascript-fundamentos**](https://github.com/Eduardo00073/javascript-fundamentos) — Lógica JS, DOM, Eventos, Fetch API e Projetos Interativos
+- 🔷 [**typescript-estudos**](https://github.com/Eduardo00073/typescript-estudos) — Tipagem Estática, Interfaces, Generics e Utility Types
+- 🐘 [**php-do-console-a-api**](https://github.com/Eduardo00073/php-do-console-a-api) — Trilha completa de PHP: do básico até APIs REST e PDO
+- 📚 [**books-api**](https://github.com/Eduardo00073/books-api) — API RESTful em Spring Boot com JWT, Swagger e PostgreSQL
+- 🎨 [**books-frontend**](https://github.com/Eduardo00073/books-frontend) — Interface SPA para a Books API desenvolvida em Vue 3 + Vite
+- 🗺️ [**react-route-explorer**](https://github.com/Eduardo00073/react-route-explorer) — App React + TypeScript + Google Maps API para rotas
+- ☕ [**java-web-app**](https://github.com/Eduardo00073/java-web-app) — Aplicação Web em Java EE (Servlets, JSP, MVC e DAO)
+- 📖 [**library-spring-boot**](https://github.com/Eduardo00073/library-spring-boot) — Projeto base em Spring Boot e JPA para gestão de biblioteca
+
+#### 💻 Linguagens & Algoritmos
+- 🐍 [**python-fundamentos**](https://github.com/Eduardo00073/python-fundamentos) — Aulas de Python do básico a apps com Tkinter e SQLite
+- 🧮 [**c-algoritmos**](https://github.com/Eduardo00073/c-algoritmos) — Algoritmos clássicos em C (fundamentos, matemática e ordenação)
+- 💻 [**csharp-console-e-desktop**](https://github.com/Eduardo00073/csharp-console-e-desktop) — Aplicações Console e Windows Forms em C# (.NET)
+- 💾 [**sql-banco-de-dados**](https://github.com/Eduardo00073/sql-banco-de-dados) — Scripts DDL, DML, modelagem relacional para SGBDs
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤖 Robótica Educacional & Cultura Maker
+- 🤖 [**arduino-robotica**](https://github.com/Eduardo00073/arduino-robotica) — Projetos com Arduino, sensores, atuadores, displays e circuitos
+- 📟 [**microbit-projetos**](https://github.com/Eduardo00073/microbit-projetos) — Exercícios com BBC micro:bit em MicroPython e MakeCode
+- 🐱 [**scratch-logica-programacao**](https://github.com/Eduardo00073/scratch-logica-programacao) — Roteiros didáticos de jogos e animações no Scratch (MIT)
+
+#### 🛡️ Cybersecurity, Infraestrutura & Design
+- 🛡️ [**cybersecurity-labs**](https://github.com/Eduardo00073/cybersecurity-labs) — Guias defensivos, segurança de redes, criptografia e hardening
+- ⚙️ [**powershell-scripts**](https://github.com/Eduardo00073/powershell-scripts) — Automação, monitoramento e gestão de sistemas Windows
+- 📦 [**git-essentials**](https://github.com/Eduardo00073/git-essentials) — Guia completo de Git, GitHub, branches e workflows de desenvolvimento
+- 🎨 [**web-design-ux-ui**](https://github.com/Eduardo00073/web-design-ux-ui) — Princípios de UX/UI, tipografia, cores, acessibilidade e wireframes
+
+#### 🚀 Plataforma Principal
+- 🚀 [**AVA**](https://github.com/Eduardo00073/AVA) — Plataforma própria de Ambiente Virtual de Aprendizagem
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📜 Formação Acadêmica Avançada (+17 Pós-Graduações)
 
 <details>
@@ -147,41 +195,6 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 </table>
 
 </details>
-
----
-
-### 📌 Projetos em Destaque & Inovações
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-#### 🚀 AVA — Ambiente Virtual de Aprendizagem
-Plataforma própria completa para gestão de aprendizagem. Conta com banco de questões automatizado, entrega de atividades interativas, acompanhamento em tempo real de turmas e biblioteca digital de conteúdos.
-
-</td>
-<td valign="top" width="50%">
-
-#### 🏫 Portal do Aluno / Área Acadêmica
-Ecossistema web voltado para a administração escolar e acompanhamento acadêmico, oferecendo portal responsivo para notas, frequência, relatórios e comunicação ativa entre alunos e professores.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🤖 Laboratório de Robótica & Jogos Educacionais
-Projetos e laboratórios didáticos práticos desenvolvidos com **Arduino**, **micro:bit**, **Tinkercad** e **Scratch**, capacitando estudantes no raciocínio lógico, eletrônica básica e criação de jogos.
-
-</td>
-<td valign="top" width="50%">
-
-#### 🛡️ Cybersecurity & Pentesting Labs
-Ambiente de testes de invasão e laboratórios de segurança da informação utilizando **Kali Linux**, voltado para análise de tráfego, estudo de vulnerabilidades e conscientização sobre cibercrimes.
-
-</td>
-</tr>
-</table>
 
 ---
 
