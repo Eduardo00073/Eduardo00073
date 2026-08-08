@@ -66,6 +66,28 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
   <img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
 </p>
 
+---
+
+### 📊 Estatísticas & Distribuição de Linguagens
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo00073&layout=compact&theme=radical&hide_border=true&title_color=00D2FF&text_color=ffffff&bg_color=0d1117" alt="Linguagens Mais Utilizadas" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eduardo00073&show_icons=true&theme=radical&hide_border=true&title_color=00D2FF&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub" height="165" />
+  </p>
+</div>
+
+```mermaid
+pie title Distribuição de Tecnologias & Ecossistema de Código
+    "PHP (LMS AVA, MVC & Web)" : 28
+    "JavaScript / TypeScript (Frontend & Extensões)" : 22
+    "C# (.NET, WinForms & Desktop)" : 18
+    "Python (Scripts & Didática)" : 12
+    "SQL (MySQL, PostgreSQL & SQL Server)" : 10
+    "Java (Spring Boot & Servlets)" : 6
+    "C / C++ (Arduino & Algoritmos)" : 4
+```
+
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
