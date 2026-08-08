@@ -42,16 +42,18 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 </table>
 
 <details>
-<summary><b>📚 Pós-graduações Lato Sensu — Faculdade Alcance (FAAL)</b></summary>
+<summary>👉 <b>Clique aqui para ver as 7 pós-graduações Lato Sensu</b></summary>
 <br>
 
-- Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais
-- Desenvolvimento em Aplicações Web
-- Docência no Ensino Médio-Técnico
-- Inteligência Artificial
-- Banco de Dados
-- Desenvolvimento de Aplicações para Dispositivos Móveis (Apps)
-- Desenvolvimento de Sistemas com Java e PHP
+| Pós-graduação Lato Sensu | Instituição |
+|---|---|
+| Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais | FAAL - Faculdade Alcance |
+| Desenvolvimento em Aplicações Web | FAAL - Faculdade Alcance |
+| Docência no Ensino Médio-Técnico | FAAL - Faculdade Alcance |
+| Inteligência Artificial | FAAL - Faculdade Alcance |
+| Banco de Dados | FAAL - Faculdade Alcance |
+| Desenvolvimento de Aplicações para Dispositivos Móveis (Apps) | FAAL - Faculdade Alcance |
+| Desenvolvimento de Sistemas com Java e PHP | FAAL - Faculdade Alcance |
 
 </details>
 
