@@ -26,7 +26,7 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 **🎓 Formação**
 - Análise e Desenvolvimento de Sistemas — Fatec Jales
 - Pedagogia (Licenciatura) — Faculdade UniBF
-- +7 Pós-graduações Lato Sensu (ver abaixo)
+- +17 Pós-graduações e especializações (ver abaixo)
 
 </td>
 <td valign="top" width="50%">
@@ -42,18 +42,31 @@ Atuo como professor em colégios, escolas técnicas e escolas de cursos livres, 
 </table>
 
 <details>
-<summary>👉 <b>Clique aqui para ver as 7 pós-graduações Lato Sensu</b></summary>
+<summary>👉 <b>Clique aqui para ver as 17 pós-graduações e especializações</b></summary>
 <br>
 
-| Pós-graduação Lato Sensu | Instituição |
-|---|---|
-| Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais | FAAL - Faculdade Alcance |
-| Desenvolvimento em Aplicações Web | FAAL - Faculdade Alcance |
-| Docência no Ensino Médio-Técnico | FAAL - Faculdade Alcance |
-| Inteligência Artificial | FAAL - Faculdade Alcance |
-| Banco de Dados | FAAL - Faculdade Alcance |
-| Desenvolvimento de Aplicações para Dispositivos Móveis (Apps) | FAAL - Faculdade Alcance |
-| Desenvolvimento de Sistemas com Java e PHP | FAAL - Faculdade Alcance |
+**FAAL — Faculdade Alcance**
+- Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais
+- Desenvolvimento em Aplicações Web
+- Docência no Ensino Médio-Técnico
+- Inteligência Artificial
+- Banco de Dados
+- Desenvolvimento de Aplicações para Dispositivos Móveis (Apps)
+- Desenvolvimento de Sistemas com Java e PHP
+
+**Univitória EAD**
+- Gestão de Pessoas e Departamento Pessoal
+- User Experience (UX) e User Interface (UI)
+- Gerenciamento de Projetos
+- Governança em TI
+- TDAH — Transtorno do Déficit de Atenção e Hiperatividade
+- Autismo
+
+**FACPRISMA — Faculdade de Ensino Superior**
+- Ensino de Ciências
+- Matemática Financeira e Estatística
+- Robótica Educacional
+- Farmácia Clínica e Hospitalar Oncológica
 
 </details>
 
