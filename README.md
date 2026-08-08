@@ -185,33 +185,6 @@ Ambiente de testes de invasão e laboratórios de segurança da informação uti
 
 ---
 
-### 📊 Estatísticas ao Vivo do GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Eduardo00073">
-          <img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Eduardo00073&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub de Eduardo"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Eduardo00073">
-          <img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Eduardo00073&amp;layout=compact&amp;theme=tokyonight" alt="Top Linguagens"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <a href="https://github.com/Eduardo00073">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo00073&amp;theme=tokyonight&amp;hide_border=false" alt="GitHub Streak Stats" />
-  </a>
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Conecte-se Comigo
@@ -221,8 +194,8 @@ Ambiente de testes de invasão e laboratórios de segurança da informação uti
   <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-```
-"Unindo Tecnologia, Engenharia de Software e Didática desde 2013."
-```
+<p align="center">
+  <i>"Unindo Tecnologia, Engenharia de Software e Didática desde 2013."</i>
+</p>
 
 </div>
