@@ -139,8 +139,9 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 - 📦 [**git-essentials**](https://github.com/Eduardo00073/git-essentials) — Guia completo de Git, GitHub, branches e workflows de desenvolvimento
 - 🎨 [**web-design-ux-ui**](https://github.com/Eduardo00073/web-design-ux-ui) — Princípios de UX/UI, tipografia, cores, acessibilidade e wireframes
 
-#### 🚀 Plataforma Principal
+#### 🚀 Plataformas & Sistemas Completos
 - 🚀 [**AVA**](https://github.com/Eduardo00073/AVA) — Plataforma própria de Ambiente Virtual de Aprendizagem
+- 🔐 [**access-management-delta**](https://github.com/Eduardo00073/access-management-delta) — Sistema de controle de acesso e gerenciamento de laboratórios (C# + SQL Server + UserInit)
 
 </td>
 </tr>
