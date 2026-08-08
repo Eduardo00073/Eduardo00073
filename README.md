@@ -1,13 +1,13 @@
 <div align="center">
   <h1>⚡ EDUARDO JUNIOR ALCÂNTARA DA SILVA ⚡</h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20%26%20Cyberseguran%C3%A7a;IA%2C%20Rob%C3%B3tica%20%26%20Banco%20de%20Dados;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20%26%20Cyberseguran%C3%A7a;IA%2C%20Rob%C3%B3tica%20%26%20Banco%20de%20Dados;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
 
   <p align="center">
     <a href="https://www.prof-eduardo.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Site Oficial"/>
+      <img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Oficial"/>
     </a>
     <a href="https://www.linkedin.com/in/edu7/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <img src="https://img.shields.io/badge/Formação-ADS_(Fatec)_|_Pedagogia_(UniBF)-7928CA?style=for-the-badge" alt="Formação"/>
     <img src="https://img.shields.io/badge/Especialização-+17_Pós--Graduações-2563EB?style=for-the-badge" alt="Especialização"/>
@@ -55,63 +55,41 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
   <b>🌐 Desenvolvimento Web & Full Stack</b>
   <br><br>
   <a href="https://github.com/Eduardo00073">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,postgres,bootstrap,git&amp;theme=dark" alt="Skill Icons Fullstack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,postgres,bootstrap,git&theme=dark" alt="Skill Icons Fullstack" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PHP_Development-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java_Enterprise-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PHP_Development-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java_Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
-
----
-
-### 📊 Estatísticas & Distribuição de Linguagens
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo00073&layout=compact&theme=radical&hide_border=true&title_color=00D2FF&text_color=ffffff&bg_color=0d1117" alt="Linguagens Mais Utilizadas" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Eduardo00073&show_icons=true&theme=radical&hide_border=true&title_color=00D2FF&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub" height="165" />
-  </p>
-</div>
-
-```mermaid
-pie title Distribuição de Tecnologias & Ecossistema de Código
-    "PHP (LMS AVA, MVC & Web)" : 28
-    "JavaScript / TypeScript (Frontend & Extensões)" : 22
-    "C# (.NET, WinForms & Desktop)" : 18
-    "Python (Scripts & Didática)" : 12
-    "SQL (MySQL, PostgreSQL & SQL Server)" : 10
-    "Java (Spring Boot & Servlets)" : 6
-    "C / C++ (Arduino & Algoritmos)" : 4
-```
 
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
 
 #### 🛡️ Cybersecurity & Infra
-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux"/> **Kali Linux**
-- <img src="https://img.shields.io/badge/Cybercrime-00D2FF?style=flat-square&amp;logo=securityscorecard&amp;logoColor=white" alt="Investigação Digital"/> **Investigação Digital**
-- <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Sistemas Operacionais"/> **Sistemas Operacionais**
-- <img src="https://img.shields.io/badge/Segurança-Redes-1E293B?style=flat-square&amp;logo=shield&amp;logoColor=white" alt="Prevenção"/> **Prevenção de Ataques**
+- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> **Kali Linux**
+- <img src="https://img.shields.io/badge/Cybercrime-00D2FF?style=flat-square&logo=securityscorecard&logoColor=white" alt="Investigação Digital"/> **Investigação Digital**
+- <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Sistemas Operacionais"/> **Sistemas Operacionais**
+- <img src="https://img.shields.io/badge/Segurança-Redes-1E293B?style=flat-square&logo=shield&logoColor=white" alt="Prevenção"/> **Prevenção de Ataques**
 
 </td>
 <td valign="top" width="33%">
 
 #### 🤖 Robótica & Hardware
-- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="Arduino"/> **Arduino & C/C++**
-- <img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=flat-square&amp;logo=microbit&amp;logoColor=white" alt="micro:bit"/> **micro:bit**
-- <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&amp;logo=scratch&amp;logoColor=white" alt="Scratch"/> **Scratch & Lógica**
-- <img src="https://img.shields.io/badge/Tinkercad-FFF000?style=flat-square&amp;logo=autodesk&amp;logoColor=black" alt="Tinkercad"/> **Tinkercad Simulações**
+- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> **Arduino & C/C++**
+- <img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=flat-square&logo=microbit&logoColor=white" alt="micro:bit"/> **micro:bit**
+- <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" alt="Scratch"/> **Scratch & Lógica**
+- <img src="https://img.shields.io/badge/Tinkercad-FFF000?style=flat-square&logo=autodesk&logoColor=black" alt="Tinkercad"/> **Tinkercad Simulações**
 
 </td>
 <td valign="top" width="33%">
 
 #### 🎨 UX/UI, Gestão & Inclusão
-- <img src="https://img.shields.io/badge/UX%2FUI-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="UX UI"/> **UX / UI Design**
+- <img src="https://img.shields.io/badge/UX%2FUI-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UX UI"/> **UX / UI Design**
 - <img src="https://img.shields.io/badge/Governança-TI-0A66C2?style=flat-square" alt="Governança"/> **Governança em TI**
 - <img src="https://img.shields.io/badge/Gestão-Projetos-2563EB?style=flat-square" alt="Gestão"/> **Gerenciamento de Projetos**
 - <img src="https://img.shields.io/badge/Inclusão-TDAH%20%26%20Autismo-FF69B4?style=flat-square" alt="Inclusão"/> **Metodologias Inclusivas**
@@ -227,13 +205,27 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 
 ---
 
+### 📊 Estatísticas Dinâmicas do GitHub & Linguagens
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo00073&theme=github_dark" alt="Repositórios por Linguagem" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo00073&theme=github_dark" alt="Commits por Linguagem" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo00073&theme=github_dark" alt="Estatísticas Gerais do Perfil" />
+  </p>
+</div>
+
+---
+
 <div align="center">
 
 ### 📫 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
