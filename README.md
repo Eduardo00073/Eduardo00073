@@ -9,8 +9,12 @@
     <a href="https://www.linkedin.com/in/edu7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <img src="https://img.shields.io/badge/Formação-ADS_(Fatec)_|_Pedagogia_(UniBF)-7928CA?style=for-the-badge" alt="Formação"/>
-    <img src="https://img.shields.io/badge/Especialização-+17_Pós--Graduações-2563EB?style=for-the-badge" alt="Especialização"/>
+    <a href="#-formação-acadêmica--base">
+      <img src="https://img.shields.io/badge/Formação-ADS_(Fatec)_|_Pedagogia_(UniBF)-7928CA?style=for-the-badge" alt="Formação"/>
+    </a>
+    <a href="#-formação-acadêmica-avançada-17-pós-graduações">
+      <img src="https://img.shields.io/badge/Especialização-+17_Pós--Graduações-2563EB?style=for-the-badge" alt="Especialização"/>
+    </a>
   </p>
 </div>
 
@@ -60,10 +64,10 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PHP_Development-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java_Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <a href="https://github.com/Eduardo00073/sql-banco-de-dados"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
+  <a href="https://github.com/Eduardo00073/php-do-console-a-api"><img src="https://img.shields.io/badge/PHP_Development-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://github.com/Eduardo00073/java-web-app"><img src="https://img.shields.io/badge/Java_Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+  <a href="https://github.com/Eduardo00073/python-fundamentos"><img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
 <table width="100%">
@@ -71,28 +75,28 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 <td valign="top" width="33%">
 
 #### 🛡️ Cybersecurity & Infra
-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> **Kali Linux**
-- <img src="https://img.shields.io/badge/Cybercrime-00D2FF?style=flat-square&logo=securityscorecard&logoColor=white" alt="Investigação Digital"/> **Investigação Digital**
-- <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Sistemas Operacionais"/> **Sistemas Operacionais**
-- <img src="https://img.shields.io/badge/Segurança-Redes-1E293B?style=flat-square&logo=shield&logoColor=white" alt="Prevenção"/> **Prevenção de Ataques**
+- <a href="https://github.com/Eduardo00073/cybersecurity-labs"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a> **Kali Linux**
+- <a href="https://github.com/Eduardo00073/digital-evidence-forensics-suite"><img src="https://img.shields.io/badge/Cybercrime-00D2FF?style=flat-square&logo=securityscorecard&logoColor=white" alt="Investigação Digital"/></a> **Investigação Digital**
+- <a href="https://github.com/Eduardo00073/powershell-scripts"><img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Sistemas Operacionais"/></a> **Sistemas Operacionais**
+- <a href="https://github.com/Eduardo00073/cybersecurity-labs"><img src="https://img.shields.io/badge/Segurança-Redes-1E293B?style=flat-square&logo=shield&logoColor=white" alt="Prevenção"/></a> **Prevenção de Ataques**
 
 </td>
 <td valign="top" width="33%">
 
 #### 🤖 Robótica & Hardware
-- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> **Arduino & C/C++**
-- <img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=flat-square&logo=microbit&logoColor=white" alt="micro:bit"/> **micro:bit**
-- <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" alt="Scratch"/> **Scratch & Lógica**
-- <img src="https://img.shields.io/badge/Tinkercad-FFF000?style=flat-square&logo=autodesk&logoColor=black" alt="Tinkercad"/> **Tinkercad Simulações**
+- <a href="https://github.com/Eduardo00073/arduino-robotica"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/></a> **Arduino & C/C++**
+- <a href="https://github.com/Eduardo00073/microbit-projetos"><img src="https://img.shields.io/badge/micro%3Abit-00A0DC?style=flat-square&logo=microbit&logoColor=white" alt="micro:bit"/></a> **micro:bit**
+- <a href="https://github.com/Eduardo00073/scratch-logica-programacao"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" alt="Scratch"/></a> **Scratch & Lógica**
+- <a href="https://github.com/Eduardo00073/arduino-robotica"><img src="https://img.shields.io/badge/Tinkercad-FFF000?style=flat-square&logo=autodesk&logoColor=black" alt="Tinkercad"/></a> **Tinkercad Simulações**
 
 </td>
 <td valign="top" width="33%">
 
 #### 🎨 UX/UI, Gestão & Inclusão
-- <img src="https://img.shields.io/badge/UX%2FUI-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UX UI"/> **UX / UI Design**
-- <img src="https://img.shields.io/badge/Governança-TI-0A66C2?style=flat-square" alt="Governança"/> **Governança em TI**
-- <img src="https://img.shields.io/badge/Gestão-Projetos-2563EB?style=flat-square" alt="Gestão"/> **Gerenciamento de Projetos**
-- <img src="https://img.shields.io/badge/Inclusão-TDAH%20%26%20Autismo-FF69B4?style=flat-square" alt="Inclusão"/> **Metodologias Inclusivas**
+- <a href="https://github.com/Eduardo00073/web-design-ux-ui"><img src="https://img.shields.io/badge/UX%2FUI-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UX UI"/></a> **UX / UI Design**
+- <a href="#-formação-acadêmica-avançada-17-pós-graduações"><img src="https://img.shields.io/badge/Governança-TI-0A66C2?style=flat-square" alt="Governança"/></a> **Governança em TI**
+- <a href="#-formação-acadêmica-avançada-17-pós-graduações"><img src="https://img.shields.io/badge/Gestão-Projetos-2563EB?style=flat-square" alt="Gestão"/></a> **Gerenciamento de Projetos**
+- <a href="#-formação-acadêmica-avançada-17-pós-graduações"><img src="https://img.shields.io/badge/Inclusão-TDAH%20%26%20Autismo-FF69B4?style=flat-square" alt="Inclusão"/></a> **Metodologias Inclusivas**
 
 </td>
 </tr>
