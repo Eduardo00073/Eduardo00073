@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://www.prof-eduardo.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Oficial"/>
+      <img src="https://img.shields.io/badge/Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Oficial"/>
     </a>
     <a href="https://www.linkedin.com/in/edu7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -218,7 +218,7 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 ### 📫 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/Website_Oficial-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
