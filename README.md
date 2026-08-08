@@ -1,57 +1,58 @@
-<h1 align="center">
-  EDUARDO JUNIOR ALCÂNTARA DA SILVA
-</h1>
+<h1 align="center">EDUARDO JUNIOR ALCÂNTARA DA SILVA</h1>
 
-<h3 align="center">
-  Desenvolvedor Full Stack • Professor de TI • Tecnologia & Inovação
-</h3>
+<h3 align="center">Desenvolvedor Full Stack • Professor de TI • Cybersegurança & Inovação</h3>
 
 <p align="center">
-  <a href="https://prof-eduardo.com/links/" target="_blank">
-    <img src="https://img.shields.io/badge/ACESSAR%20MEU%20SITE-0165f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/SITE-0165f1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-Desenvolvedor Full Stack atuando com tecnologia desde **2013**.  
-Professor de **Programação, Informática, Tecnologia e Inovação**, formando profissionais preparados para o mercado digital.
+Sou **Desenvolvedor Full Stack** e **Professor de Informática, Programação e Robótica**, unindo tecnologia e educação desde 2013. Tenho formação em **Análise e Desenvolvimento de Sistemas** (Fatec Jales) e em **Pedagogia** (Faculdade UniBF), o que me permite transitar entre o desenvolvimento de soluções reais e a formação de novos talentos em TI.
 
-Atuo unindo **tecnologia + educação**, criando soluções e desenvolvendo pessoas.
+Leciono no **Colégio XV de Abril (rede Positivo)**, em Jales-SP, e na **Via Certa Franquias**, com conteúdos que vão da lógica de programação ao desenvolvimento web, cybersegurança, inteligência artificial e banco de dados.
 
-> **Unindo Tecnologia e Educação desde 2013.  
-> Formando mentes preparadas para os desafios do mundo digital.**
+- 🎓 Análise e Desenvolvimento de Sistemas — Fatec Jales
+- 🎓 Pedagogia — Faculdade UniBF
+- 🏫 Professor de Informática, Programação e Robótica
+- 🔐 Estudo e prática de Cybersegurança (Kali Linux)
+- 🤖 Robótica Educacional (Arduino, TinkerCad, sensores)
+- 💻 Criador do meu próprio AVA (Ambiente Virtual de Aprendizagem)
 
----
+### 🛠️ Tecnologias e Ferramentas
 
-## 💼 Áreas de Atuação
-
-- 👨‍💻 Desenvolvimento Full Stack  
-- 🧠 Tecnologia & Inovação  
-- 🎓 Educação em TI  
-- 🔐 Cybersecurity  
-- 🤖 Robótica  
-- 📊 Matemática Aplicada  
-- 📚 Pedagogia  
-
----
-
-## 🛠 Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
+</p>
 
-## 🌐 Conecte-se
+### 📌 Projetos em destaque
 
-- Site: https://prof-eduardo.com/links/
-- LinkedIn: https://www.linkedin.com/in/edu7
+- **Portal do Aluno / Área do Aluno** — plataformas web para gestão acadêmica
+- **AVA — Ambiente Virtual de Aprendizagem** — plataforma própria com banco de questões, atividades e biblioteca digital
+- **Projetos de Robótica e Games Educacionais** — desenvolvidos em Scratch e Arduino
+
+### 📫 Contato
+
+<p align="center">
+<a href="https://www.prof-eduardo.com/" target="_blank"><img src="https://img.shields.io/badge/Site-0165f1?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/edu7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>Unindo tecnologia e educação desde 2013.</i></p>
