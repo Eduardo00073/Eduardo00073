@@ -205,16 +205,10 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 
 ---
 
-### 📊 Estatísticas Dinâmicas do GitHub & Linguagens
+### 📊 Linguagens Mais Usadas
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo00073&theme=github_dark" alt="Repositórios por Linguagem" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo00073&theme=github_dark" alt="Commits por Linguagem" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo00073&theme=github_dark" alt="Estatísticas Gerais do Perfil" />
-  </p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eduardo00073&locale=pt-br&theme=github_dark&hide_border=true&layout=compact" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
