@@ -107,6 +107,10 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 
 ### 📂 Repositórios Didáticos & Projetos
 
+<details>
+<summary>👉 <b><font color="#00F2FE">⚡ CLIQUE AQUI PARA EXPANDIR OS 18+ REPOSITÓRIOS & PROJETOS DIDÁTICOS ⚡</font></b> 👈</summary>
+<br>
+
 Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 
 <table width="100%">
@@ -158,12 +162,14 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 </tr>
 </table>
 
+</details>
+
 ---
 
 ### 📜 Formação Acadêmica Avançada (+17 Pós-Graduações)
 
 <details>
-<summary>👉 <b>Clique aqui para explorar o catálogo completo de 17+ Pós-Graduações e Especializações</b></summary>
+<summary>👉 <b><font color="#00F2FE">✨ CLIQUE AQUI PARA EXPANDIR O CATÁLOGO DE +17 PÓS-GRADUAÇÕES E ESPECIALIZAÇÕES ✨</font></b> 👈</summary>
 <br>
 
 <table width="100%">
