@@ -116,7 +116,7 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 ### 📂 Repositórios Didáticos & Projetos
 
 <details>
-<summary><b><img src="https://img.shields.io/badge/▶_EXECUTE_MODULE-DESCOMPACTAR_ECOSSISTEMA_DE_CÓDIGO_(18+_PROJETOS)-00D2FF?style=for-the-badge&logo=git&logoColor=black" alt="Expandir Repositórios"/></b></summary>
+<summary><b><font size="3" color="#00F2FE">⚡ Clique aqui para expandir o Ecossistema de Código (18+ Repositórios Didáticos & Projetos)</font></b></summary>
 <br>
 
 Explore os repositórios organizados por áreas de conhecimento e tecnologia:
@@ -177,7 +177,7 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 ### 📜 Formação Acadêmica Avançada (+17 Pós-Graduações)
 
 <details>
-<summary><b><img src="https://img.shields.io/badge/▶_EXECUTE_MODULE-DESCOMPACTAR_CATÁLOGO_ACADÊMICO_(+17_PÓS--GRADUAÇÕES)-7928CA?style=for-the-badge&logo=academicons&logoColor=white" alt="Expandir Pós-Graduações"/></b></summary>
+<summary><b><font size="3" color="#A855F7">🎓 Clique aqui para expandir o Catálogo Completo de +17 Pós-Graduações e Especializações</font></b></summary>
 <br>
 
 <table width="100%">
