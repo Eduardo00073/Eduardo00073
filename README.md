@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ EDUARDO JUNIOR ALCÂNTARA DA SILVA ⚡</h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20%26%20Cyberseguran%C3%A7a;IA%2C%20Rob%C3%B3tica%20%26%20Banco%20de%20Dados;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20(Web%20%26%20Desktop);Cyberseguran%C3%A7a%2C%20IA%20%26%20Sistemas;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
 
   <p align="center">
     <a href="https://www.prof-eduardo.com/" target="_blank">
@@ -22,9 +22,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou **Professor de Programação, Informática e Robótica** e **Desenvolvedor Full Stack**, unindo tecnologia, engenharia de software e pedagogia desde **2013**.
+Sou **Professor de Programação, Informática e Robótica** e **Desenvolvedor Full Stack (Web & Desktop)**, unindo tecnologia, engenharia de software e pedagogia desde **2013**.
 
-Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Jales) e **Pedagogia** (Faculdade UniBF), além de **+17 Pós-Graduações e Especializações**. Essa combinação única entre área técnica e didática me permite transitar com facilidade entre a criação de arquiteturas de software complexas e a formação contínua de novos talentos no mercado de Tecnologia da Informação.
+Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Jales) e **Pedagogia** (Faculdade UniBF), além de **+17 Pós-Graduações e Especializações**. Essa combinação única entre área técnica e didática me permite transitar com facilidade entre a criação de arquiteturas de software complexas (sistemas de gestão Desktop Windows, plataformas Web e mobile) e a formação contínua de novos talentos no mercado de TI.
 
 ---
 
@@ -36,7 +36,7 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 - 💻 **Análise e Desenvolvimento de Sistemas** — *Fatec Jales*
 - 👨‍🏫 **Pedagogia (Licenciatura)** — *Faculdade UniBF*
 - 📜 **+17 Pós-Graduações Lato Sensu** *(Cybersecurity, IA, Web, UX/UI, Robótica, Inclusão e Gestão de TI)*
-- 💡 **Foco Continuado**: Inovação Educacional, Arquitetura Web & Segurança Digital
+- 💡 **Foco Continuado**: Inovação Educacional, Arquitetura Web & Desktop, Segurança Digital
 
 </td>
 <td valign="top" width="50%">
@@ -56,14 +56,15 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 ### 🛠️ Ecossistema Tecnológico & Ferramentas
 
 <p align="center">
-  <b>🌐 Desenvolvimento Web & Full Stack</b>
+  <b>🌐💻 Desenvolvimento Full Stack (Web & Desktop)</b>
   <br><br>
   <a href="https://github.com/Eduardo00073">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,mysql,postgres,bootstrap,git&theme=dark" alt="Skill Icons Fullstack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs,dotnet,python,mysql,postgres,bootstrap,git&theme=dark" alt="Skill Icons Fullstack Web Desktop" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Eduardo00073/csharp-console-e-desktop"><img src="https://img.shields.io/badge/C%23_.NET_Desktop-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Desktop"/></a>
   <a href="https://github.com/Eduardo00073/sql-banco-de-dados"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
   <a href="https://github.com/Eduardo00073/php-do-console-a-api"><img src="https://img.shields.io/badge/PHP_Development-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="https://github.com/Eduardo00073/java-web-app"><img src="https://img.shields.io/badge/Java_Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
@@ -112,7 +113,7 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 <tr>
 <td valign="top" width="50%">
 
-#### 🌐 Desenvolvimento Web & Full Stack
+#### 🌐💻 Desenvolvimento Web, Desktop & Full Stack
 - 🌐 [**html-css-fundamentos**](https://github.com/Eduardo00073/html-css-fundamentos) — HTML5 semântico, CSS3, Flexbox, Grid e Responsividade
 - ⚡ [**javascript-fundamentos**](https://github.com/Eduardo00073/javascript-fundamentos) — Lógica JS, DOM, Eventos, Fetch API e Projetos Interativos
 - 🔷 [**typescript-estudos**](https://github.com/Eduardo00073/typescript-estudos) — Tipagem Estática, Interfaces, Generics e Utility Types
