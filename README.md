@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ EDUARDO JUNIOR ALCÂNTARA DA SILVA ⚡</h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20(Web%20%26%20Desktop);Cyberseguran%C3%A7a%2C%20IA%20%26%20Sistemas;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Professor%20de%20Programa%C3%A7%C3%A3o%2C%20Inform%C3%A1tica%20e%20Rob%C3%B3tica;Desenvolvedor%20Full%20Stack%20(Web%20%26%20Desktop);Cyberseguran%C3%A7a%2C%20IA%20%26%20Engenharia%20de%20Software;Transformando%20Vidas%20atrav%C3%A9s%20da%20Tecnologia" alt="Typing SVG Banner" />
 
   <p align="center">
     <a href="https://www.prof-eduardo.com/" target="_blank">
@@ -16,6 +16,14 @@
       <img src="https://img.shields.io/badge/Especialização-+17_Pós--Graduações-2563EB?style=for-the-badge" alt="Especialização"/>
     </a>
   </p>
+
+  <p align="center">
+    <code><b>[ 🚀 <a href="#-sobre-mim">Sobre Mim</a> ]</b></code> &nbsp;•&nbsp; 
+    <code><b>[ 🛠️ <a href="#️-ecossistema-tecnológico--ferramentas">Tech Stack</a> ]</b></code> &nbsp;•&nbsp; 
+    <code><b>[ 📂 <a href="#-repositórios-didáticos--projetos">Repositórios</a> ]</b></code> &nbsp;•&nbsp; 
+    <code><b>[ 📜 <a href="#-formação-acadêmica-avançada-17-pós-graduações">Pós-Graduações</a> ]</b></code> &nbsp;•&nbsp; 
+    <code><b>[ 📊 <a href="#-linguagens-mais-usadas">Estatísticas</a> ]</b></code>
+  </p>
 </div>
 
 ---
@@ -24,7 +32,7 @@
 
 Sou **Professor de Programação, Informática e Robótica** e **Desenvolvedor Full Stack (Web & Desktop)**, unindo tecnologia, engenharia de software e pedagogia desde **2013**.
 
-Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Jales) e **Pedagogia** (Faculdade UniBF), além de **+17 Pós-Graduações e Especializações**. Essa combinação única entre área técnica e didática me permite transitar com facilidade entre a criação de arquiteturas de software complexas (sistemas de gestão Desktop Windows, plataformas Web e mobile) e a formação contínua de novos talentos no mercado de TI.
+Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Jales) e **Pedagogia** (Faculdade UniBF), além de **+17 Pós-Graduações e Especializações**. Essa combinação única entre área técnica e didática me permite transitar com facilidade entre a criação de arquiteturas de software complexas (sistemas de gestão Desktop Windows, plataformas Web e mobile) e a formação contínua de novos talentos no mercado de Tecnologia da Informação.
 
 ---
 
@@ -108,7 +116,7 @@ Possuo dupla graduação em **Análise e Desenvolvimento de Sistemas** (Fatec Ja
 ### 📂 Repositórios Didáticos & Projetos
 
 <details>
-<summary><b><img src="https://img.shields.io/badge/⚡_EXPANDIR_ECOSSISTEMA-18+_REPOSITÓRIOS_%26_PROJETOS-00D2FF?style=for-the-badge&logo=github&logoColor=white" alt="Expandir Repositórios"/></b></summary>
+<summary><b><img src="https://img.shields.io/badge/▶_EXECUTE_MODULE-DESCOMPACTAR_ECOSSISTEMA_DE_CÓDIGO_(18+_PROJETOS)-00D2FF?style=for-the-badge&logo=git&logoColor=black" alt="Expandir Repositórios"/></b></summary>
 <br>
 
 Explore os repositórios organizados por áreas de conhecimento e tecnologia:
@@ -169,7 +177,7 @@ Explore os repositórios organizados por áreas de conhecimento e tecnologia:
 ### 📜 Formação Acadêmica Avançada (+17 Pós-Graduações)
 
 <details>
-<summary><b><img src="https://img.shields.io/badge/🎓_EXPANDIR_FORMAÇÃO-+17_PÓS--GRADUAÇÕES_E_ESPECIALIZAÇÕES-7928CA?style=for-the-badge&logo=academicons&logoColor=white" alt="Expandir Pós-Graduações"/></b></summary>
+<summary><b><img src="https://img.shields.io/badge/▶_EXECUTE_MODULE-DESCOMPACTAR_CATÁLOGO_ACADÊMICO_(+17_PÓS--GRADUAÇÕES)-7928CA?style=for-the-badge&logo=academicons&logoColor=white" alt="Expandir Pós-Graduações"/></b></summary>
 <br>
 
 <table width="100%">
